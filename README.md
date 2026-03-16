@@ -1,6 +1,6 @@
 ﻿# Counter Strike: Boss Raid
-Gameplay: https://www.youtube.com/watch?v=hMHETeHLQrg&feature=youtu.be
-Download: https://drive.google.com/file/d/15S2qEJLwu_uUcSJimUFQWCUNF8bRu9qk/view?usp=sharing
+Gameplay: https://www.youtube.com/watch?v=hMHETeHLQrg&feature=youtu.be  
+Download: https://drive.google.com/file/d/15S2qEJLwu_uUcSJimUFQWCUNF8bRu9qk/view?usp=sharing  
 ## Introduction
 
 **Counter Strike: Boss Raid** is a 3D third-person shooter game developed using Unity.
